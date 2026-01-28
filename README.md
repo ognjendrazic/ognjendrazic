@@ -1,24 +1,23 @@
 # Hi, I’m Ognjen Drazic
 
-Engineering student at the University of Agder with a strong interest in game development. I enjoy building practical solutions, experimenting with new technologies, and continuously improving my engineering skill set.
-
+#### Motivated software engineer with a self-taught background and a long-standing passion for technology. From an early age, I explored computing through hands-on learning, including building and configuring computers, which later developed into a deeper interest in how software systems are designed and built. This interest led me to pursue a bachelor’s degree in Data Engineering. I continuously expand my technical skills through academic coursework, projects, and independent learning.
 ---
 
-## 📚 Learning & Growth
+## Learning & Growth
 I am currently strengthening my knowledge in:
-- Modern C++ and software architecture  
-- Game development and Graphics APIs
+- Low level system design
+- Native mobile app development
 
 ---
 
-## 🛠 Tools & Technologies
-**Languages:** C++ and C#  
+## Tools & Technologies
+**Languages:** C/C++/C# ,   
 
 ---
 
 ## 📫 Contact
 Feel free to reach out or connect:
-- GitHub: [@ognjendrazic](https://github.com/ognjendrazic)
+- ogidra@hotmail.no
 
 ---
 
