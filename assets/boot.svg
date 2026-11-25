@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="Terminal boot log for ognjendrazic">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .bar { fill: #161b22; }
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 14px; fill: #c9d1d9; }
+    .dim { fill: #8b949e; }
+    .ok { fill: #3fb950; }
+    .acc { fill: #58a6ff; }
+    .warm { fill: #f0883e; }
+    .ln { opacity: 0; animation: show 0.01s forwards; }
+    .l1 { animation-delay: 0.3s; } .l2 { animation-delay: 0.9s; } .l3 { animation-delay: 1.4s; }
+    .l4 { animation-delay: 1.9s; } .l5 { animation-delay: 2.4s; } .l6 { animation-delay: 2.9s; }
+    .l7 { animation-delay: 3.4s; } .l8 { animation-delay: 4.1s; } .l9 { animation-delay: 4.6s; }
+    .cursor { fill: #c9d1d9; opacity: 0; animation: show 0.01s 4.6s forwards, blink 1s 4.6s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="819" height="299" rx="10"/>
+  <path class="bar" d="M10.5 0.5h799a10 10 0 0 1 10 10v22h-819v-22a10 10 0 0 1 10-10z"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="410" y="22" text-anchor="middle" class="dim" style="font-size:12px">ognjen@uia: ~ (serial /dev/ttyACM0 @ 115200)</text>
+
+  <text class="ln l1" x="20" y="60"><tspan class="dim">*** Booting Zephyr OS build v4.x ***</tspan></text>
+  <text class="ln l2" x="20" y="86"><tspan class="dim">[00:00:00.001]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: name = <tspan class="acc">"Ognjen Drazic"</tspan></text>
+  <text class="ln l3" x="20" y="112"><tspan class="dim">[00:00:00.004]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: role = <tspan class="acc">"3rd-year Computer Engineering @ University of Agder"</tspan></text>
+  <text class="ln l4" x="20" y="138"><tspan class="dim">[00:00:00.009]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: location = <tspan class="acc">"Norway"</tspan></text>
+  <text class="ln l5" x="20" y="164"><tspan class="dim">[00:00:00.016]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> stack: C/C++, JS/TS, RTOS, Python, .NET, React Native, Docker, Linux</text>
+  <text class="ln l6" x="20" y="190"><tspan class="dim">[00:00:00.025]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> interests: embedded, RTOS, OS dev, DevOps</text>
+  <text class="ln l7" x="20" y="216"><tspan class="dim">[00:00:00.031]</tspan> <tspan class="warm">&lt;wrn&gt;</tspan> coffee: level low, continuing anyway</text>
+  <text class="ln l8" x="20" y="250"><tspan class="ok">uart:~$</tspan> echo "thanks for stopping by"</text>
+  <text class="ln l9" x="20" y="276"><tspan class="ok">uart:~$</tspan></text>
+  <rect class="cursor" x="92" y="263" width="9" height="17"/>
+</svg>
