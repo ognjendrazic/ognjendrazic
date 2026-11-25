@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/boot.svg" alt="Terminal boot log: Ognjen Drazic, Computer Engineering student at University of Agder, Norway" width="100%"/>
+<img src="assets/boot.svg" alt="Terminal boot log: Ognjen Drazic, third-year Computer Engineering student at University of Agder, Norway" width="100%"/>
 
 # Hi, I'm Ognjen 👋
 
-Computer Engineering student at the **University of Agder** in Norway.
+Third-year Computer Engineering student at the **University of Agder** in Norway.
 I like working close to the hardware (sensors, RTOSes, kernels) and also the tooling that ships it.
 
 [![Website](https://img.shields.io/badge/ognjendrazic.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://ognjendrazic.com/)

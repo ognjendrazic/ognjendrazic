@@ -22,7 +22,7 @@
 
   <text class="ln l1" x="20" y="60"><tspan class="dim">*** Booting Zephyr OS build v4.x ***</tspan></text>
   <text class="ln l2" x="20" y="86"><tspan class="dim">[00:00:00.001]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: name = <tspan class="acc">"Ognjen Drazic"</tspan></text>
-  <text class="ln l3" x="20" y="112"><tspan class="dim">[00:00:00.004]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: role = <tspan class="acc">"Computer Engineering @ University of Agder"</tspan></text>
+  <text class="ln l3" x="20" y="112"><tspan class="dim">[00:00:00.004]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: role = <tspan class="acc">"3rd-year Computer Engineering @ University of Agder"</tspan></text>
   <text class="ln l4" x="20" y="138"><tspan class="dim">[00:00:00.009]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> user: location = <tspan class="acc">"Norway"</tspan></text>
   <text class="ln l5" x="20" y="164"><tspan class="dim">[00:00:00.016]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> stack: C/C++, JS/TS, RTOS, Python, .NET, React Native, Docker, Linux</text>
   <text class="ln l6" x="20" y="190"><tspan class="dim">[00:00:00.025]</tspan> <tspan class="ok">&lt;inf&gt;</tspan> interests: embedded, RTOS, OS dev, DevOps</text>
